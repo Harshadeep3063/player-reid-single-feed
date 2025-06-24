@@ -83,7 +83,7 @@ HTML(f'''
 ---
 
 ## 📊 Output Example
-- Video: `output/reid_output.mp4`
+- Video: `output/fixed_output.mp4`
 - FPS: ~7.9 (CPU) | Time: ~47s
 - 375 frames processed
 - Consistent tracking throughout
