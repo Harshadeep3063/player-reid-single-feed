@@ -7,6 +7,8 @@ Re-identify and track players in a single 15-second sports video using a YOLO-ba
 
 ## 📂 Folder Structure
 ```
+📦 **YOLOv11 Model**: [Download best.pt](https://drive.google.com/file/d/1DhuBuOU9hmHI8nadghFuCd6s56WJmewU/view?usp=drive_link)
+
 player-reid-single-feed/
 ├── input/
 │   ├── 15sec_input_720p.mp4         # Provided video
