@@ -10,10 +10,9 @@ Re-identify and track players in a single 15-second sports video using a YOLO-ba
 player-reid-single-feed/
 ├── input/
 │   ├── 15sec_input_720p.mp4         # Provided video
-│   └── best.pt                      # Provided YOLOv11 fine-tuned model
 │
 ├── output/
-│   └── reid_output.mp4             # Final output with re-ID visualization
+│   └── fixed_output.mp4             # Final output with re-ID visualization
 │
 ├── src/
 │   ├── reid_main.py                # Main pipeline script
